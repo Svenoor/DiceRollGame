@@ -1,0 +1,28 @@
+=====================
+Dice Rolling Game Results
+=====================
+Player 1: Six   One   Two   Two   Three Three 
+Player 2: Three Five  Four  Six   Four  Four  
+Player 3: Four  Three Five  Three Six   Six   
+Player 4: Two   Six   One   One   One   Four  
+
+Bonus Points per Round:
+Round 1: Player 1 gets a bonus of 5 points.
+Round 2: Player 4 gets a bonus of 5 points.
+Round 3: Player 3 gets a bonus of 5 points.
+Round 4: Player 2 gets a bonus of 5 points.
+Round 5: Player 3 gets a bonus of 5 points.
+Round 6: Player 3 gets a bonus of 5 points.
+
+
+Player 1 :  22
+Player 3 :  42
+      -----
+ Team A  64
+
+Player 2 :  31
+Player 4 :  20
+      -----
+ Team B  51
+
+Team A wins.
