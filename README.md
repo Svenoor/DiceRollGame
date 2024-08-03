@@ -21,4 +21,5 @@ This is a simple dice rolling game implemented in C++. The game involves multipl
    g++ -o DiceRoll DiceRoll.cpp
    ./DiceRoll
    Enter the name of the text file : Text.txt
-   After successfully running the code, the output file Text.rpt is created, showing the results
+
+2. After successfully running the code, the output file Text.rpt is created, showing the results
