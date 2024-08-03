@@ -11,7 +11,7 @@ This is a simple dice rolling game implemented in C++. The game involves multipl
 
 ## Creation
 
--This project was created in Fall 2022, following my first C++ classes. It represents an early exploration into programming concepts and the --application of C++ in a practical project.
+-This project was created in Fall 2022, following my first C++ classes. It represents an early exploration into programming concepts and the application of C++ in a practical project.
 
 ## How to Use
 
